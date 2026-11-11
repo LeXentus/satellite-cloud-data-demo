@@ -1,0 +1,5 @@
+observation_utc,raw_cloud_optical_thickness,quality_flag
+2026-05-03T01:00:00Z,1200,0
+2026-05-03T01:10:00Z,950,1
+2026-05-03T01:20:00Z,0,0
+2026-05-03T15:00:00Z,65535,0
